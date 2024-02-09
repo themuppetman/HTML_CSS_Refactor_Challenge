@@ -1,6 +1,10 @@
 # HTML_CSS_Refactor_Challenge
 
-##
+## Challenge Goals
+
+```
+As a developer I want to be able refactor code to make elements semantic within the HTML and remove redundancies from the CSS
+```
 
 ## User Story
 
@@ -27,4 +31,9 @@ THEN I find a concise, descriptive title
 ```
 ## Resources
 
+```
+Tutorial - https://www.youtube.com/watch?v=eQ-MULBEC58
+Tutorial - https://youtu.be/bOUhq46fd5g?si=Flp3BVSUlxlQcax6
+Tutorial - https://www.youtube.com/watch?v=-jn9aaNn8_I
+Tutorial-	https://www.youtube.com/watch?v=QqyxbqW4E5s
 ```
