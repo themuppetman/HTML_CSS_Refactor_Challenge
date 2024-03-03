@@ -36,7 +36,7 @@ https://themuppetman.github.io/HTML_CSS_Refactor_Challenge/
 
 ## Demo
 
-![Refactor Challenge ScreenShot](RefactorChallengeScreenshot.png)
+![Refactor Challenge ScreenShot](/assets/images/RefactorChallengeScreenshot.png)
 
 ```
 Tutorial - https://www.youtube.com/watch?v=eQ-MULBEC58
