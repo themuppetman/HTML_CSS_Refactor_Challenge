@@ -36,8 +36,8 @@ https://themuppetman.github.io/HTML_CSS_Refactor_Challenge/
 
 ## Demo
 ```
-![Alt text](<assets/images/Screenshot 2024-03-03 at 10.27.52 AM.png>)
-```
+[![Alt text](<assets/images/Screenshot 2024-03-03 at 10.27.52 AM.png>)
+](https://themuppetman.github.io/HTML_CSS_Refactor_Challenge/)```
 ## Resources
 
 ```
