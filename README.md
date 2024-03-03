@@ -35,7 +35,7 @@ https://themuppetman.github.io/HTML_CSS_Refactor_Challenge/
 ```
 
 ## Demo
-```
+
 ![Refactor Challenge ScreenShot](RefactorChallengeScreenshot.png)
 
 ```
